@@ -1,4 +1,4 @@
-# udemig-education
+# Udemig Education
 
 HTML, SCSS kullanılarak tek sayfalalık bir eğitim sayfası hazırlanmıştır. 
 
